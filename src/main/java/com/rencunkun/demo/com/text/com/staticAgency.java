@@ -13,6 +13,10 @@ public class staticAgency {
        /* RenCunKun renCunKun=new RenCunKun();
         Proxyy proxyy=new Proxyy(renCunKun);
         proxyy.maifang();*/
+       Integer or=0;
+       if(or==null || or==0){
+           System.out.println("222");
+       }
     }
 }
 
